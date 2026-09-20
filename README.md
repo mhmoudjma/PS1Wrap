@@ -28,7 +28,7 @@ dotnet --version
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/PS1Wrap.git
+git clone https://github.com/mhmoudjma/PS1Wrap
 cd PS1Wrap
 ```
 
@@ -87,6 +87,4 @@ All of this is generated in a temporary directory (`tempfile.TemporaryDirectory`
 
 [MIT](LICENSE)
 
-## 🤝 Contributing
 
-Pull requests and suggestions are welcome. Open an issue if you find a bug or have an idea for improvement.
